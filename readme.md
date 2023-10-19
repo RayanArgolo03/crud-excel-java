@@ -9,7 +9,7 @@ Projeto java que simula operações de banco de dados pelo Excel, consultas a AP
 - JDK 16
 
 ## Vídeo didático sobre as bibliotecas
-- Apache Poi OOXML (suporta Excel.xlsx) - https://www.youtube.com/watch?v=mxaFk0RmU1I&t=1019s
+- Apache Poi OOXML - https://www.youtube.com/watch?v=mxaFk0RmU1I&t=1019s
 - GSON - https://www.youtube.com/watch?v=054aalxKU2I
 
 ## Funcionalidades do Projeto
